@@ -1,0 +1,20 @@
+{
+    "name": "tanjim/github-assistent",
+    "description": "A github assistent plugin",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "autoload": {
+        "psr-4": {
+            "Tanjim\\GithubAssistent\\": "includes/"
+        },
+        "files": []
+    },
+    "authors": [
+        {
+            "name": "tanjimTC",
+            "email": "tanjimtc74@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
